@@ -3,4 +3,4 @@ First Connection:
 2. Connect to the device's network.
 3. Add device to the HomeApp
 Reset Connection:
-1.Press press the button for 10s
+1.Press the button for 10s
